@@ -1,0 +1,23 @@
+[ 
+   { 
+      "name":"Mimolett", 
+      "address":"Lindholmsallen 61", 
+      "tel":"031-224466", 
+      "lunchserving" :[  
+        { 
+           "day": "onsdag", 
+           "lunchhours": "11.00-14.00",
+            "lunchmenu": [ 
+            { 
+               "name": "Carbonara", 
+               "price": 99,  
+               "veg": "false"  
+             },
+            { 
+               "name": "Diavola", 
+               "price": 99, 
+               "veg": "false" 
+            } ] 
+        } ] 
+    }
+]
