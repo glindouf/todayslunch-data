@@ -30,12 +30,12 @@
            "lunchhours": "11.00-13.30",
             "lunchmenu": [
             {
-               "name": "Högrevsgryta",
+               "name": "Hogrevsgryta",
                "price": 90,
                "veg": "false"
              },
             {
-               "name": "Parmesanpanerad kålrot",
+               "name": "Parmesanpanerad kalrot",
                "price": 90,
                "veg": "true"
             } ]
