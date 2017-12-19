@@ -20,4 +20,25 @@
             } ] 
         } ] 
     }
+    {
+      "name": "Bistrot",
+      "address": "Diagonalen 8",
+      "tel": "031-22 33 23",
+      "lunchserving": [
+        {
+           "day": "onsdag",
+           "lunchhours": "11.00-13.30",
+            "lunchmenu": [
+            {
+               "name": "Högrevsgryta",
+               "price": 90,
+               "veg": "false"
+             },
+            {
+               "name": "Parmesanpanerad kålrot",
+               "price": 90,
+               "veg": "true"
+            } ]
+        } ]
+    }
 ]
