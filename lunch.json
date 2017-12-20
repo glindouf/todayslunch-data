@@ -3,42 +3,18 @@
       "name":"Mimolett", 
       "address":"Lindholmsallen 61", 
       "tel":"031-224466", 
-      "lunchserving" :[  
+      "day": "onsdag", 
+      "lunchhours": "11.00-14.00",
+      "lunchmenu": [ 
         { 
-           "day": "onsdag", 
-           "lunchhours": "11.00-14.00",
-            "lunchmenu": [ 
-            { 
-               "name": "Carbonara kskskdsk", 
-               "price": 99,  
-               "veg": "false"  
-             },
-            { 
-               "name": "Diavola", 
-               "price": 99, 
-               "veg": "false" 
-            } ] 
+          "name": "Carbonara kskskdsk", 
+          "price": 99,  
+          "veg": "false"  
+        },
+          { 
+            "name": "Diavola", 
+            "price": 99, 
+            "veg": "false"
         } ] 
-    }, 
-    {
-      "name": "Bistrot",
-      "address": "Diagonalen 8",
-      "tel": "031-22 33 23",
-      "lunchserving": [
-        {
-           "day": "onsdag",
-           "lunchhours": "11.00-13.30",
-            "lunchmenu": [
-            {
-               "name": "Hogrevsgryta",
-               "price": 90,
-               "veg": "false"
-             },
-            {
-               "name": "Parmesanpanerad kalrot",
-               "price": 90,
-               "veg": "true"
-            } ]
-        } ]
     }
 ]
