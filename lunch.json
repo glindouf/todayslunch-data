@@ -9,12 +9,12 @@
         { 
           "name": "Carbonara 1132", 
           "price": 99,  
-          "veg": "false"  
+          "dishtype": "pasta"  
         },
           { 
             "name": "Diavola", 
             "price": 99, 
-            "veg": "false"
+            "dishtype": "pasta"
         } ] 
     }
 ]
